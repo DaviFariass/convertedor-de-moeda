@@ -145,3 +145,11 @@ Durante o desenvolvimento, são trabalhados conceitos como:
 ## 👨‍💻 Projeto acadêmico
 
 Projeto desenvolvido com finalidade educacional, como atividade prática de desenvolvimento mobile utilizando React Native, JavaScript, Expo e arquitetura MVVM.
+
+
+## 📱 Capturas de Tela
+
+<div align="center">
+  <img src="./screenshots/img1.png" alt="Tela 1" width="300" />
+  <img src="./screenshots/img2.png" alt="Tela 2" width="300" />
+</div>
